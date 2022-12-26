@@ -1,0 +1,11 @@
+.contact__list {
+  padding: 0;
+}
+
+.contact__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+    padding-bottom: 8px;
+  }
